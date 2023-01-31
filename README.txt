@@ -28,4 +28,4 @@ The script includes several functions that handle different aspects of the game:
 
 Author
 
-This Tic-Tac-Toe game was developed by Hossein SHams as a final project.
+This Tic-Tac-Toe game was developed by Hossein Shams as a final project.

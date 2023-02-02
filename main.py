@@ -1,4 +1,4 @@
-#Hossein SHams Esfand Abadi Student ID: 4003333008 - Final Project
+#Hossein Shams - Final Project AI
 from random import choice
 from math import inf
 from colorama import Fore, Style
